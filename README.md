@@ -2,7 +2,7 @@
 This repository contains tools and applications which may help in solving problems of quantum computing and mechanics 
 Cascade Protocol Simulation with Parity Error Correction
 This Python script demonstrates a simplified simulation of the Cascade error-correction protocol. The script generates random binary keys, introduces controlled errors, and then attempts to correct the errors using parity checks. It also evaluates metrics such as information leakage, error rate, and secret key rate.
-
+# 1. Cascade Protocol Simulation with Parity Error Correction
 # Features
 Key Generation: Randomly generates an n-bit binary key.
 Error Simulation: Introduces a specified error rate by flipping bits in the key.
